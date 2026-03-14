@@ -1,5 +1,12 @@
 # @vercel/build-utils
 
+## 13.8.1
+
+### Patch Changes
+
+- Updated dependencies [[`3c4355fa1414aa3270ba4d36423aa647d49a9cf3`](https://github.com/vercel/vercel/commit/3c4355fa1414aa3270ba4d36423aa647d49a9cf3)]:
+  - @vercel/python-analysis@0.10.0
+
 ## 13.8.0
 
 ### Minor Changes

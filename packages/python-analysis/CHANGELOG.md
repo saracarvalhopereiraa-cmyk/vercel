@@ -1,5 +1,11 @@
 # @vercel/python-analysis
 
+## 0.10.0
+
+### Minor Changes
+
+- Add requirements.txt parsing via `uv-requirements-txt` ([#15498](https://github.com/vercel/vercel/pull/15498))
+
 ## 0.9.1
 
 ### Patch Changes

@@ -1,5 +1,22 @@
 # @vercel/python
 
+## 6.24.0
+
+### Minor Changes
+
+- [services] add support for background workers to vc dev ([#15434](https://github.com/vercel/vercel/pull/15434))
+
+- Fix serving static files for a django WSGI app in vercel dev. ([#15501](https://github.com/vercel/vercel/pull/15501))
+
+- [services] add support for cron services to vc dev ([#15433](https://github.com/vercel/vercel/pull/15433))
+
+### Patch Changes
+
+- [services] increase Python startup timeout to 5 minutes to match orchestrator ([#15535](https://github.com/vercel/vercel/pull/15535))
+
+- Updated dependencies [[`3c4355fa1414aa3270ba4d36423aa647d49a9cf3`](https://github.com/vercel/vercel/commit/3c4355fa1414aa3270ba4d36423aa647d49a9cf3)]:
+  - @vercel/python-analysis@0.10.0
+
 ## 6.23.0
 
 ### Minor Changes
